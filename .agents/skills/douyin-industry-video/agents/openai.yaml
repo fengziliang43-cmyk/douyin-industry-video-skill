@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Industry Video"
+  short_description: "从短视频提取字幕并分析产业链订单逻辑"
+  default_prompt: "Use $douyin-industry-video to extract subtitles from this short video and analyze the industry-chain order logic."
